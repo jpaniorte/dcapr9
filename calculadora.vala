@@ -12,7 +12,11 @@ public class Calculadora : Object
         return a + b;
     }
 
-    public in sumatriple(int c) {
+    public int sumatriple(int c) {
         return a + b + c;
+    }
+
+    public int mult() {
+        return a * b;
     }
 }
