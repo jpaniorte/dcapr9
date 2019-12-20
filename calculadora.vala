@@ -9,7 +9,7 @@ public class Calculadora : Object
     }
 
     public int suma() { 
-        return a + b + 1;
+        return a + b;
     }
 
     public int sumatriple(int c) {
