@@ -27,4 +27,8 @@ public class Calculadora : Object
     public int div2() {
         return a / b;
     }
+
+    public int div2() {
+        return a / b * a;
+    }
 }
