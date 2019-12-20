@@ -8,8 +8,8 @@ public class Calculadora : Object
         this.b = b;
     }
 
-    public int suma() {
-        return a + b;
+    public int suma() { 
+        return a + b + 1;
     }
 
     public int sumatriple(int c) {
