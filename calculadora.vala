@@ -19,4 +19,8 @@ public class Calculadora : Object
     public int mult() {
         return a * b;
     }
+
+    public int div() {
+        return a / b;
+    }
 }
